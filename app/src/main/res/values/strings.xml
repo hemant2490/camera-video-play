@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CameraVideoPlay</string>
+    <string name="message_need_permission">Video Record</string>
+    <string name="message_permission">Need permission for record video.</string>
+    <string name="title_go_to_setting">Go to Settings</string>
+    <string name="fill_delay">Please fill delay field.</string>
+    <string name="fill_duration">Please fill duration field.</string>
+</resources>
